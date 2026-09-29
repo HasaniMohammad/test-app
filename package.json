@@ -1,0 +1,24 @@
+{
+  "name": "test-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HasaniMohammad/test-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/HasaniMohammad/test-app/issues"
+  },
+  "homepage": "https://github.com/HasaniMohammad/test-app#readme",
+  "dependencies": {
+    "network-route-planner": "^1.0.0"
+  }
+}
